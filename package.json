@@ -9,9 +9,6 @@
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare"
   },
-  "stuff": {
-    "@scalar/nuxt": "file:/home/amritk/apps/scalar/scalar/packages/nuxt/scalar-nuxt-0.2.27.tgz"
-  },
   "dependencies": {
     "@scalar/nuxt": "0.2.70",
     "nuxt": "^3.12.3",
