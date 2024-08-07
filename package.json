@@ -13,7 +13,7 @@
     "@scalar/nuxt": "file:/home/amritk/apps/scalar/scalar/packages/nuxt/scalar-nuxt-0.2.27.tgz"
   },
   "dependencies": {
-    "@scalar/nuxt": "file:/home/amritk/apps/scalar/scalar/packages/nuxt/scalar-nuxt-0.2.70.tgz",
+    "@scalar/nuxt": "0.2.70",
     "nuxt": "^3.12.3",
     "vue": "^3.4.31",
     "vue-router": "^4.4.0"
