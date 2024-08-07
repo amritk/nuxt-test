@@ -14,6 +14,10 @@ export default defineNuxtConfig({
   vite: {
     optimizeDeps: {
       include: [
+        "@scalar/nuxt > jsonpointer",
+        "@scalar/nuxt > ajv-draft-04",
+        "@scalar/nuxt > ajv-formats",
+
         "@scalar/nuxt",
         "@scalar/nuxt > ajv",
         "@scalar/nuxt > asjv-draft-04 > ajv",
